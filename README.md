@@ -42,6 +42,10 @@ Conhecer o tipo sanguíneo é importante em situações como transfusões de san
 
 Além disso, os bancos de sangue precisam de doações de diferentes tipos sanguíneos para ajudar pacientes que necessitam de transfusões.
 
+*Por que é importante fazer exames de sangue?*
+
+É importante realizar exames periódicos para avaliar nosso estado de saúde, uma vez que diversas doenças são silenciosas e muitos sintomas são comuns a diferentes patologias. Nesse sentido, o exame de sangue é uma das ferramentas mais importantes disponíveis para os médicos, uma vez que pode revelar uma série de informações sobre o corpo.
+
 ## Conclusão
 
 O sangue desempenha funções essenciais no organismo, como transportar oxigênio e nutrientes e participar da defesa do corpo. Os exames de sangue permitem analisar diferentes aspectos da saúde, enquanto a identificação dos tipos sanguíneos é fundamental para garantir a segurança em transfusões e outros procedimentos médicos. Por isso, conhecer o sangue e suas características é importante para compreender melhor o funcionamento do corpo humano.
