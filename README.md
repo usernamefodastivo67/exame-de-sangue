@@ -4,7 +4,7 @@ exame de sangue
 
 ## O que é um exame de sangue?
 
-O exame de sangue é um procedimento realizado para analisar diferentes componentes presentes no sangue e ajudar a avaliar o funcionamento do organismo. Por meio de uma pequena quantidade de sangue retirada, geralmente de uma veia do braço, é possível obter diversas informações sobre a saúde de uma pessoa.
+O exame de sangue é o termo popularmente utilizado para se referir a qualquer análise realizada a partir do nosso sangue. Esses testes são solicitados por médicos para avaliar o estado geral de saúde do paciente e possibilitar a detecção precoce de diversas doenças
 
 Os exames de sangue podem verificar, por exemplo, a quantidade de células sanguíneas, os níveis de glicose, colesterol, vitaminas e algumas substâncias produzidas pelo organismo. Eles também podem auxiliar os profissionais de saúde na identificação e no acompanhamento de algumas doenças e alterações no corpo.
 
